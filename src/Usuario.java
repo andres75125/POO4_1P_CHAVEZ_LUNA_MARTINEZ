@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public abstract class Usuario {
     private String codigoUnico;
     private String cedula;
@@ -19,7 +20,8 @@ public abstract class Usuario {
         this.correo = correo;
         this.rol = rol;
     }
-
+    public abstract void consultarEntradas(ArrayList<Compra>compras);
+    
     //Aplicar getters y setters por cada atributo
     public String getCodigoUnico() {
         return codigoUnico;
