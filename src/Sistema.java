@@ -272,9 +272,8 @@ public class Sistema {
         return nuevaCompra;
     }
 
-    // =========================================================================
-    // SOBRECARGA DEL METODO NOTIFICAR (PAGINAS 7 Y 8 DEL PDF)
-    // =========================================================================
+    // SOBRECARGA DEL METODO NOTIFICAR
+
 
     /**
      * Variante 3.1: Envia confirmacion de Compra de Entrada Individual.
@@ -353,8 +352,8 @@ public class Sistema {
                         "Total de compras registradas: " + totalCompras + "\n" +
                         "Total de compras de entradas individuales: " + totalEntradas + "\n" +
                         "Total de compras de kits: " + totalKits + "\n" +
-                        "Monto total recaudado: $" + montoTotal + "\n\n" +
-                        "Este reporte corresponde a las compras registradas en el archivo compras.txt.";
+                        "Monto total recaudado: $" + montoTotal + "\n\n";
+                        
         
         ServicioCorreo.enviarCorreoReal(organizador.getCorreo(), asunto, cuerpo);
     }
