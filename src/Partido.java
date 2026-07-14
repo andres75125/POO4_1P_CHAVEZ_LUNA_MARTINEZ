@@ -3,8 +3,7 @@ import java.util.Date;
 /**
  * Representa la informacion de un partido de futbol del Mundial.
  * Implementa la interfaz Comparable para permitir el ordenamiento cronologico.
- * * @author Jorge Andres Martinez Gutierrez
- * @author 
+ * * @author Javier Fernando Chavez Anchundia
  * @version 1.0
  */
 public class Partido implements Comparable<Partido> {
