@@ -4,6 +4,8 @@ Este proyecto consiste en el desarrollo de un sistema de consola interactivo par
 
 ## 👥 Integrantes
 * **Jorge Andrés Martínez Gutiérrez**
+* **Samantha Sulay Luna Malta**
+* **Javier Fernando Chavez Anchundia**
 
 * **Asignatura:** Programación Orientada a Objetos (POO)
 
