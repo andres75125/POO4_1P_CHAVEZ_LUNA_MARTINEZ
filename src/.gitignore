@@ -1,0 +1,16 @@
+# Archivos de compilacion de Java
+*.class
+bin/
+out/
+
+# Configuracion de entornos de desarrollo (VS Code / Eclipse / IntelliJ)
+.vscode/
+.project
+.classpath
+.settings/
+*.iml
+.idea/
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store
