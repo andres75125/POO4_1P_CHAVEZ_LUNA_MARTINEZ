@@ -1,0 +1,16 @@
+Codigo|Nombre|Descripcion|Partidos|Precio|Disponibles
+K001|Kit Ecuador|Partidos fase grupos Ecuador|M001,M005,M009|250.00|30
+K002|Kit Argentina|Partidos fase grupos Argentina|M002,M006,M010|280.00|25
+K003|Kit Brasil|Partidos fase grupos Brasil|M003,M007,M011|300.00|20
+K004|Kit Fase de Grupos|4 partidos destacados de fase de grupos|M001,M002,M003,M004|350.00|40
+K005|Kit America|Partidos de selecciones americanas|M001,M002,M003,M022|320.00|35
+K006|Kit Europa|Partidos de selecciones europeas|M004,M008,M011,M012|340.00|30
+K007|Kit Clasicos Internacionales|Encuentros entre selecciones históricas|M008,M011,M012,M023|380.00|25
+K008|Kit Octavos|Partidos de octavos de final|M013,M014|400.00|15
+K009|Kit Cuartos|Partidos de cuartos de final|M015,M016|500.00|12
+K010|Kit Semifinales|Ambas semifinales del Mundial|M017,M018|650.00|10
+K011|Kit Finalista|Tercer lugar y final|M019,M020|800.00|8
+K012|Kit VIP Mundial|Partidos premium con acceso VIP|M002,M017,M020|1200.00|5
+K013|Kit Experiencia Mundialista|Partidos de todas las fases del torneo|M001,M006,M013,M017,M020|1500.00|3
+K014|Kit Norteamerica 2026|Partidos disputados en Estados Unidos y México|M001,M002,M004,M008|420.00|18
+K015|Kit Favoritos del Público|Partidos de Ecuador, Argentina y Brasil|M001,M002,M003,M005,M006,M007|550.00|15

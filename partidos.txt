@@ -1,0 +1,25 @@
+Codigo|Local|Visitante|Fecha|Estadio|Ciudad|Capacidad|General|Preferencial|VIP|Fase|PrecioGeneral|PrecioPreferencial|PrecioVIP
+M001|Ecuador|Japon|2026-06-15|Azteca|CDMX|80000|30000|10000|2000|Fase de grupos|45.00|85.00|150.00
+M002|Argentina|Canada|2026-06-15|MetLife|New York|85000|35000|12000|3000|Fase de grupos|40.00|80.00|180.00
+M003|Brasil|Corea del Sur|2026-06-16|SoFi Stadium|Los Angeles|70000|28000|9000|1800|Fase de grupos|40.00|80.00|180.00
+M004|España|Marruecos|2026-06-16|AT&T Stadium|Dallas|80000|32000|10000|2500|Fase de grupos|40.00|80.00|180.00
+M005|Ecuador|Francia|2026-06-20|Hard Rock Stadium|Miami|65000|25000|8000|1500|Fase de grupos|40.00|80.00|180.00
+M006|Argentina|Australia|2026-06-20|Levis Stadium|San Francisco|68000|26000|8500|1700|Fase de grupos|40.00|80.00|180.00
+M007|Brasil|Suiza|2026-06-21|NRG Stadium|Houston|72000|27000|9000|1800|Fase de grupos|40.00|80.00|180.00
+M008|Alemania|Mexico|2026-06-21|Mercedes-Benz Stadium|Atlanta|71000|28000|9500|2000|Fase de grupos|40.00|80.00|180.00
+M009|Ecuador|Canada|2026-06-25|Lumen Field|Seattle|69000|26000|8500|1700|Fase de grupos|40.00|80.00|180.00
+M010|Argentina|Dinamarca|2026-06-25|Arrowhead Stadium|Kansas City|76000|29000|9500|1900|Fase de grupos|40.00|80.00|180.00
+M011|Brasil|Portugal|2026-06-26|Gillette Stadium|Boston|65000|24000|8000|1500|Fase de grupos|40.00|80.00|180.00
+M012|Inglaterra|Croacia|2026-06-26|Lincoln Financial Field|Philadelphia|69000|26000|8500|1700|Fase de grupos|40.00|80.00|180.00
+M013|Ganador Grupo A|Segundo Grupo B|2026-07-01|Azteca|CDMX|80000|30000|10000|2000|Octavos de final|60.00|120.00|250.00
+M014|Ganador Grupo C|Segundo Grupo D|2026-07-01|MetLife|New York|85000|35000|12000|3000|Octavos de final|60.00|120.00|250.00
+M015|Ganador Grupo E|Segundo Grupo F|2026-07-02|SoFi Stadium|Los Angeles|70000|28000|9000|1800|Cuartos de final|80.00|150.00|350.00
+M016|Ganador Grupo G|Segundo Grupo H|2026-07-02|AT&T Stadium|Dallas|80000|32000|10000|2500|Cuartos de final|80.00|150.00|350.00
+M017|Ganador Cuarto 1|Ganador Cuarto 2|2026-07-08|MetLife|New York|85000|35000|12000|3000|Semifinal|100.00|200.00|450.00
+M018|Ganador Cuarto 3|Ganador Cuarto 4|2026-07-09|SoFi Stadium|Los Angeles|70000|28000|9000|1800|Semifinal|100.00|200.00|450.00
+M019|Perdedor Semi 1|Perdedor Semi 2|2026-07-12|Hard Rock Stadium|Miami|65000|25000|8000|1500|Tercer lugar|70.00|130.00|300.00
+M020|Ganador Semi 1|Ganador Semi 2|2026-07-15|MetLife|New York|85000|35000|12000|3000|Final|150.00|300.00|600.00
+M021|Italia|Uruguay|2026-06-17|BC Place|Vancouver|54000|20000|7000|1200|Fase de grupos|40.00|80.00|180.00
+M022|Belgica|Estados Unidos|2026-06-17|BMO Field|Toronto|45000|18000|6000|1000|Fase de grupos|40.00|80.00|180.00
+M023|Paises Bajos|Colombia|2026-06-18|Estadio Akron|Guadalajara|49000|19000|6500|1200|Fase de grupos|40.00|80.00|180.00
+M024|Chile|Polonia|2026-06-18|BBVA Stadium|Monterrey|53000|20000|7000|1200|Fase de grupos|40.00|80.00|180.00

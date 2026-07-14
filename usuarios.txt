@@ -1,0 +1,12 @@
+CodigoUnico|Cedula|Nombres|Apellidos|Usuario|Contrasena|Correo|Rol
+A001|0923456789|Carlos|Mendoza|cmendoza|mundial2026|carlos.mendoza@email.com|A
+A002|0912345678|Ana|Lopez|alopez|ecuador2026|ana.lopez@email.com|A
+A003|0934567890|Miguel|Santos|msantos|futbol2026|miguel.santos@email.com|A
+A004|0945678901|Sofia|Vera|svera|qatar2026|sofia.vera@email.com|A
+A005|0956789012|David|Torres|dtorres|messi2026|david.torres@email.com|A
+A006|0967890123|Valeria|Romero|vromero|mundialvip|valeria.romero@email.com|A
+A007|0978901234|Jorge|Castro|jcastro|fifa2026|jorge.castro@email.com|A
+A008|0989012345|Camila|Perez|cperez|estadios2026|camila.perez@email.com|A
+O001|0990123456|Laura|Perez|lperez|admin2026|laura.perez@fifa.com|O
+O002|0901234567|Andres|Morales|amorales|organizador1|andres.morales@fifa.com|O
+O003|0911122233|Daniela|Rojas|drojas|supervisor26|daniela.rojas@fifa.com|O

@@ -1,0 +1,4 @@
+CodigoUnico|Cedula|Nombres|Apellidos|Empresa|Cargo
+O001|0990123456|Laura|Perez|FIFA Event Manager|Supervisor General
+O002|0901234567|Andres|Morales|FIFA Event Manager|Coordinador de Operaciones
+O003|0911122233|Daniela|Rojas|FIFA Event Manager|Analista de Ventas
