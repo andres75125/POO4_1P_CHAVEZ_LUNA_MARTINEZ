@@ -67,7 +67,7 @@ public class Sistema {
                         String celular = datosAficionados[4].trim();
                         String paisFavorito = datosAficionados[5].trim();
 
-                        Usuario nuevoAficionado = new Aficionado(codigo, cedula, nombre, apellido, usuario, contrasena, correo, Rol.A, celular, paisFavorito);
+                        Usuario nuevoAficionado = new Aficionado(codigo, cedula, nombre, apellido, usuario, contrasena, correo, Rol.AFICIONADO, celular, paisFavorito);
                         usuarios.add(nuevoAficionado);
                     }
                 }    
@@ -81,7 +81,7 @@ public class Sistema {
                         String empresa = datosOrganizador[4].trim();
                         String cargo = datosOrganizador[5].trim();
 
-                        Usuario nuevoOrganizador = new Organizador(codigo, cedula, nombre, apellido, usuario, contrasena, correo, Rol.O, empresa, cargo);
+                        Usuario nuevoOrganizador = new Organizador(codigo, cedula, nombre, apellido, usuario, contrasena, correo, Rol.ORGANIZADOR, empresa, cargo);
                         usuarios.add(nuevoOrganizador);
                     }
                 }
