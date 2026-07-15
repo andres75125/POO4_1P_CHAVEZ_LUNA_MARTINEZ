@@ -211,6 +211,10 @@ public class Main {
         
         System.out.print("Ingresar número de tarjeta: ");
         String tarjeta = lec.nextLine().trim();
+        if (tarjeta.length() != 16 || !tarjeta.matches("[0-9]+") || tarjeta.equals("0000000000000000")) {
+            System.out.println("Error. La tarjeta debe tener 16 dígitos numéricos y ser válida.");
+            return; 
+        }
         
         System.out.println("Simulando pago exitoso...");
         System.out.println("Procesando cobro...");

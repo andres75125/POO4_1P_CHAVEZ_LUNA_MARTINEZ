@@ -7,6 +7,8 @@ A005|0956789012|David|Torres|dtorres|messi2026|david.torres@email.com|A
 A006|0967890123|Valeria|Romero|vromero|mundialvip|valeria.romero@email.com|A
 A007|0978901234|Jorge|Castro|jcastro|fifa2026|jorge.castro@email.com|A
 A008|0989012345|Camila|Perez|cperez|estadios2026|camila.perez@email.com|A
+A004|0911111213|Samantha|Luna|samyyl|vivaecuador|sammalta@espol.edu.ec|A
 O001|0990123456|Laura|Perez|lperez|admin2026|laura.perez@fifa.com|O
 O002|0901234567|Andres|Morales|amorales|organizador1|andres.morales@fifa.com|O
 O003|0911122233|Daniela|Rojas|drojas|supervisor26|daniela.rojas@fifa.com|O
+O004|0911111113|Samantha|Luna|saml|mimundualec|sammalta@espol.edu.ec|O
