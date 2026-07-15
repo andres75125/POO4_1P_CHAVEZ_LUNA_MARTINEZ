@@ -10,5 +10,4 @@ A008|0989012345|Camila|Perez|cperez|estadios2026|camila.perez@email.com|A
 A004|0911111213|Samantha|Luna|samyyl|vivaecuador|sammalta@espol.edu.ec|A
 O001|0990123456|Laura|Perez|lperez|admin2026|laura.perez@fifa.com|O
 O002|0901234567|Andres|Morales|amorales|organizador1|andres.morales@fifa.com|O
-O003|0911122233|Daniela|Rojas|drojas|supervisor26|daniela.rojas@fifa.com|O
-O004|0911111113|Samantha|Luna|saml|mimundualec|sammalta@espol.edu.ec|O
+O003|0911111113|Samantha|Luna|saml|mimundialec|sammalta@espol.edu.ec|O
